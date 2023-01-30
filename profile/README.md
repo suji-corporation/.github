@@ -1,4 +1,9 @@
 # 수지 취업준비위원회 
+### 🐾 멤버  
+
+|[수아](https://github.com/rkdtndk99) | [지윤](https://github.com/J1Yun)|   
+|---|---|
+| <img width=150 src="https://user-images.githubusercontent.com/63537847/193181145-7ebdd309-65a8-459b-a8fd-f553968af8c7.png">  |  <img src="https://user-images.githubusercontent.com/63537847/215407932-18c7423f-5aab-45ad-bbf7-b72dc16f1951.png" width = 150> |
 
 </br> 
 
@@ -27,3 +32,6 @@
 
 **4️⃣ 자소서 or 면접**
 1. 알고리즘 2차 시간이나 자율 공부 시간에 작성
+
+<img width="502" alt="image" src="https://user-images.githubusercontent.com/63537847/215408565-7fe91971-4dd7-4677-ac14-d5818c85256d.png">
+

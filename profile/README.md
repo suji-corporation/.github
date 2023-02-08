@@ -7,6 +7,12 @@
 
 </br> 
 
+### 공부 기록 바로가기  
+[🖥️ CS](https://github.com/suji-corporation/CS_Study)     
+[🧩 Algorithm](https://github.com/suji-corporation/Algorithm)    
+
+</br> 
+
  ### 📍규칙 
 -  출근 시간 9시~9시10분
 - 지각비 10분당 1000원 (일이 있으면 전날 12시까지 알리기)
